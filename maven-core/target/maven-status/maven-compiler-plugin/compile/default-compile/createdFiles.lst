@@ -1,0 +1,14 @@
+org\apache\maven\toolchain\model\io\xpp3\MavenToolchainsXpp3Writer.class
+org\apache\maven\toolchain\model\PersistedToolchains.class
+org\apache\maven\execution\scope\internal\MojoExecutionScope$1.class
+org\apache\maven\toolchain\RequirementMatcherFactory$1.class
+org\apache\maven\toolchain\model\io\xpp3\MavenToolchainsXpp3Reader$ContentTransformer.class
+org\apache\maven\project\DefaultProjectBuilder$2.class
+org\apache\maven\toolchain\model\ToolchainModel.class
+org\apache\maven\toolchain\model\io\xpp3\MavenToolchainsXpp3Reader.class
+org\apache\maven\session\scope\internal\SessionScope$1.class
+org\apache\maven\project\artifact\MavenMetadataSource$1.class
+org\apache\maven\toolchain\model\TrackableBase.class
+org\apache\maven\toolchain\model\io\xpp3\MavenToolchainsXpp3Reader$1.class
+META-INF\sisu\javax.inject.Named
+org\apache\maven\lifecycle\internal\DefaultExecutionEventCatapult$1.class

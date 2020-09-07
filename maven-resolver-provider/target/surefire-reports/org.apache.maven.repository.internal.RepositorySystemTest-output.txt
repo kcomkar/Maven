@@ -1,0 +1,24 @@
+Aether Repository - artifactResolving: ut.simple:artifact:pom:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:parent:pom:1.0
+Aether Repository - artifactResolved: ut.simple:parent:pom:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:dependency:pom:1.0
+Aether Repository - artifactResolved: ut.simple:dependency:pom:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:dependency:pom:1.0
+Aether Repository - artifactResolved: ut.simple:dependency:pom:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:pom:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:parent:pom:1.0
+Aether Repository - artifactResolved: ut.simple:parent:pom:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:jar:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:jar:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:zip:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:zip:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:zip:classifier:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:zip:classifier:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:jar:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:jar:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:zip:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:zip:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:zip:classifier:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:zip:classifier:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)

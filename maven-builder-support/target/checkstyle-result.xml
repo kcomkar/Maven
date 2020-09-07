@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="C:\Users\Omkar\git\apache\maven\maven-builder-support\src\main\java\org\apache\maven\building\ProblemCollector.java">
+<error line="51" column="28" severity="warning" message="Expected @param tag for &apos;source&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Omkar\git\apache\maven\maven-builder-support\src\main\java\org\apache\maven\building\Source.java">
+<error line="39" column="16" severity="warning" message="Expected @throws tag for &apos;IOException&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+</checkstyle>

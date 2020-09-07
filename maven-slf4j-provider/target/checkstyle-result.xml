@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="C:\Users\Omkar\git\apache\maven\maven-slf4j-provider\src\main\java\org\slf4j\impl\MavenSimpleLogger.java">
+<error line="99" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Omkar\git\apache\maven\maven-slf4j-provider\src\main\java\org\slf4j\impl\StaticLoggerBinder.java">
+<error line="67" severity="warning" message="Expected an @return tag." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+</checkstyle>

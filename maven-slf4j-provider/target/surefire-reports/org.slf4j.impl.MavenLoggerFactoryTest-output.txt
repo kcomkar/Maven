@@ -1,0 +1,3 @@
+[main] WARNING Test - This should not hit the fail threshold
+[main] ERROR Test - This should hit the fail threshold
+[main] WARNING Test - This should not reset the fail threshold

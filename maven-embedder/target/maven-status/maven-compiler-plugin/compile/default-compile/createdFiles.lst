@@ -1,0 +1,12 @@
+org\apache\maven\cli\internal\extension\model\CoreExtension.class
+org\apache\maven\cli\internal\extension\model\io\xpp3\CoreExtensionsXpp3Reader$1.class
+META-INF\sisu\javax.inject.Named
+org\apache\maven\cli\internal\extension\model\CoreExtensions.class
+org\apache\maven\cli\internal\extension\model\io\xpp3\CoreExtensionsXpp3Reader.class
+org\apache\maven\cli\logging\impl\Log4j2Configuration$1.class
+org\apache\maven\cli\transfer\AbstractMavenTransferListener$1.class
+org\apache\maven\cli\MavenCli$2.class
+org\apache\maven\cli\logging\impl\LogbackConfiguration$1.class
+org\apache\maven\cli\logging\impl\Slf4jSimpleConfiguration$1.class
+org\apache\maven\cli\internal\extension\model\io\xpp3\CoreExtensionsXpp3Reader$ContentTransformer.class
+org\apache\maven\cli\internal\extension\model\io\xpp3\CoreExtensionsXpp3Writer.class

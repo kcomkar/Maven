@@ -1,0 +1,56 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-09-07T19:39:53+05:30
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 30
+
+Apache Licensed: 30
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/pom.xml
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/Factories.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/ext/CommentRenormalizer.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/AbstractEventXMLFilter.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/AbstractSAXFilter.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/BuildPomXMLFilter.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/BuildPomXMLFilterFactory.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/BuildPomXMLFilterListener.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/CiFriendlyXMLFilter.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/ConsumerPomXMLFilter.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/ConsumerPomXMLFilterFactory.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/DependencyKey.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/FastForwardFilter.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/ModulesXMLFilter.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/ParentXMLFilter.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/ReactorDependencyXMLFilter.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/RelativePathXMLFilter.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/filter/RelativeProject.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/SAXEvent.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/SAXEventFactory.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/main/java/org/apache/maven/xml/sax/SAXEventUtils.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/test/java/org/apache/maven/xml/sax/ext/CommentRenormalizerTest.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/test/java/org/apache/maven/xml/sax/filter/AbstractXMLFilterTests.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/test/java/org/apache/maven/xml/sax/filter/CiFriendlyXMLFilterTest.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/test/java/org/apache/maven/xml/sax/filter/ConsumerPomXMLFilterTest.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/test/java/org/apache/maven/xml/sax/filter/ModulesXMLFilterTest.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/test/java/org/apache/maven/xml/sax/filter/ParentXMLFilterTest.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/test/java/org/apache/maven/xml/sax/filter/ReactorDependencyXMLFilterTest.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/test/java/org/apache/maven/xml/sax/filter/RelativePathXMLFilterTest.java
+  AL    C:/Users/Omkar/git/apache/maven/maven-xml/src/test/java/org/apache/maven/xml/sax/SAXEventUtilsTest.java
+ 
+*****************************************************

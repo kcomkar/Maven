@@ -1,0 +1,46 @@
+Aether Repository - artifactResolving: ut.simple:artifact:pom:0
+Aether Repository - artifactDownloading: ut.simple:artifact:pom:0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Transfer - transferInitiated: Downloading: file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/ut/simple/artifact/0/artifact-0.pom
+
+Aether Transfer - transferFailed: class org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact ut.simple:artifact:pom:0 in repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/)
+Aether Repository - artifactDownloaded: ut.simple:artifact:pom:0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolved: ut.simple:artifact:pom:0 from null
+Aether Repository - artifactResolving: ut.simple:artifact:pom:0
+Aether Repository - artifactDownloading: ut.simple:artifact:pom:0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Transfer - transferInitiated: Downloading: file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/ut/simple/artifact/0/artifact-0.pom
+
+Aether Transfer - transferFailed: class org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact ut.simple:artifact:pom:0 in repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/)
+Aether Repository - artifactDownloaded: ut.simple:artifact:pom:0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolved: ut.simple:artifact:pom:0 from null
+Aether Repository - artifactResolving: ut.simple:artifact:pom:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:pom:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:pom:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:pom:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\Omkar\git\apache\maven\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/Omkar/git/apache/maven/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)

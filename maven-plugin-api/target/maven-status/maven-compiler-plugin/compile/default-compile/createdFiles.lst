@@ -1,0 +1,8 @@
+org\apache\maven\plugin\lifecycle\io\xpp3\LifecycleMappingsXpp3Reader$ContentTransformer.class
+org\apache\maven\plugin\lifecycle\io\xpp3\LifecycleMappingsXpp3Writer.class
+org\apache\maven\plugin\lifecycle\Phase.class
+org\apache\maven\plugin\lifecycle\Execution.class
+org\apache\maven\plugin\lifecycle\io\xpp3\LifecycleMappingsXpp3Reader.class
+org\apache\maven\plugin\lifecycle\LifecycleConfiguration.class
+org\apache\maven\plugin\lifecycle\Lifecycle.class
+org\apache\maven\plugin\lifecycle\io\xpp3\LifecycleMappingsXpp3Reader$1.class

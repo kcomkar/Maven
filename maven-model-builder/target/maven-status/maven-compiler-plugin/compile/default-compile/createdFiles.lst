@@ -1,0 +1,11 @@
+org\apache\maven\model\building\ModelCacheTag$2.class
+org\apache\maven\model\interpolation\AbstractStringBasedModelInterpolator$1.class
+org\apache\maven\model\building\AbstractModelSourceTransformer$1.class
+org\apache\maven\model\interpolation\AbstractStringBasedModelInterpolator$3.class
+org\apache\maven\model\building\DefaultModelBuilderFactory$1.class
+org\apache\maven\model\building\DefaultModelBuilder$1.class
+org\apache\maven\model\interpolation\AbstractStringBasedModelInterpolator$2.class
+org\apache\maven\model\building\ModelCacheTag$1.class
+META-INF\sisu\javax.inject.Named
+org\apache\maven\model\profile\activation\FileProfileActivator$1.class
+org\apache\maven\model\building\ModelCacheTag$3.class

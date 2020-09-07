@@ -1,0 +1,57 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-09-07T19:41:56+05:30
+
+Notes: 3
+Binaries: 0
+Archives: 0
+Standards: 28
+
+Apache Licensed: 26
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    maven-wrapper.pom
+  AL    pom.xml
+  N     README.txt
+  AL    src/assembly/maven/bin/mvnDebug
+  AL    src/assembly/maven/bin/mvnDebug.cmd
+  AL    src/assembly/maven/bin/mvnyjp
+  AL    src/assembly/maven/bin.xml
+  AL    src/assembly/maven/component.xml
+  AL    src/assembly/maven/conf/logging/simplelogger.properties
+  AL    src/assembly/maven/conf/settings.xml
+  AL    src/assembly/maven/conf/toolchains.xml
+  AL    src/assembly/maven/dir.xml
+  N     src/assembly/maven/lib/ext/README.txt
+  N     src/assembly/maven/lib/jansi-native/README.txt
+  AL    src/assembly/maven/src.xml
+  AL    src/assembly/shared/mvnwDebug
+  AL    src/assembly/shared/mvnwDebug.cmd
+  AL    src/assembly/shared/validate
+  AL    src/assembly/shared/validate.cmd
+  AL    src/assembly/wrapper/bin.xml
+  AL    src/assembly/wrapper/script.xml
+  AL    src/assembly/wrapper/shared/.mvn/wrapper/maven-wrapper.properties
+  AL    src/assembly/wrapper/source/.mvn/wrapper/MavenWrapperDownloader.java
+  AL    src/assembly/wrapper/source.xml
+  AL    src/main/appended-resources/licenses/Apache-2.0.txt
+  MIT   src/main/appended-resources/licenses/MIT-jsoup-1.12.1.txt
+  MIT   src/main/appended-resources/licenses/MIT-slf4j-api-1.7.29.txt
+  AL    src/main/appended-resources/META-INF/LICENSE.vm
+  AL    src/main/appended-resources/META-INF/NOTICE.vm
+  AL    src/site/site.xml
+  AL    src/test/java/org/apache/maven/settings/GlobalSettingsTest.java
+ 
+*****************************************************

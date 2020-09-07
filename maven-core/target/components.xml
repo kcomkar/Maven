@@ -1,0 +1,25 @@
+<component-set>
+  <components>
+    <component>
+      <role>org.apache.maven.lifecycle.LifeCyclePluginAnalyzer</role>
+      <role-hint>default</role-hint>
+      <implementation>org.apache.maven.lifecycle.internal.DefaultLifecyclePluginAnalyzer</implementation>
+      <description></description>
+      <isolated-realm>false</isolated-realm>
+      <requirements>
+        <requirement>
+          <role>org.apache.maven.lifecycle.mapping.LifecycleMapping</role>
+          <field-name>lifecycleMappings</field-name>
+        </requirement>
+        <requirement>
+          <role>org.apache.maven.lifecycle.DefaultLifecycles</role>
+          <field-name>defaultLifeCycles</field-name>
+        </requirement>
+        <requirement>
+          <role>org.codehaus.plexus.logging.Logger</role>
+          <field-name>logger</field-name>
+        </requirement>
+      </requirements>
+    </component>
+  </components>
+</component-set>
